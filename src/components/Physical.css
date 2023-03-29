@@ -1,0 +1,65 @@
+.selected {
+  background-color: #00796b;
+  color: white;
+  font-family: 'Merriweather', serif !important;
+}
+  #physical {
+    font-family: 'Merriweather', serif !important;
+    color: #595959 !important
+  }
+  #historical {
+    font-family: 'Merriweather', serif !important;
+    color: #595959 !important
+  }
+  
+  button {
+    font-family: 'Merriweather', serif !important;
+    border-radius: 0 !important;
+    border: solid 1px silver;
+    padding: 5px !important;
+
+  }
+  .heading {
+    margin-top: 100px !important;
+  }
+  .subheading {
+    margin-bottom: 20px !important;
+  }
+  .css-o4b71y-MuiAccordionSummary-content {
+    display: block !important;
+    text-align: center;
+    color: white;
+  }
+  .css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root {
+    background-color: #00796b !important;
+  }
+  .css-15v22id-MuiAccordionDetails-root {
+    background-color: #f0f0f0 !important;
+    color: #595959 !important
+  }
+  .svg_icons {
+    transform: scale(1.8);
+    margin: 10px !important
+  }
+
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #00796b;
+    text-align: left;
+    padding: 8px;
+    color: white; /* set text color to white */
+  }
+  
+  th {
+    background-color: #00796b;
+  }
+  
+  td {
+    color: #00796b; /* set td text color to white */
+  }
+  
